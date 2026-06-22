@@ -10,7 +10,7 @@
 🚀 INSTALLATION & RUN GUIDE
 - **In order to run this program from an IDE on Windows OS you'll need a C++ compiler supporting at least the C++11 standard (GCC/MinGW, MSVC)**
 - Assuming that you use g++ to compile .cpp file , then you need to go into the folder where you save the main.cpp file and use command:  g++ main.cpp graphics.cpp algorithm.cpp resource.o -o XO_AI.exe -Iinclude -Llib -lraylib -lopengl32 -lgdi32 -lwinmm -mwindows 
-- **There will be a XO_AI.exe file in the folder after compilation. Continue to command : XO_AI in Command Prompt or ./XO_AI if u use VsCode. The game console will appear**
+- **There will be a XO_AI.exe file in the folder after compilation. Continue to command : XO_AI in Command Prompt or ./XO_AI if you use VsCode. The game console will appear**
 ---
 ## ✨ KEY FEATURES
 
