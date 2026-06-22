@@ -5,10 +5,11 @@ A simple 15x15 Caro game (Gomoku variant) played between a Human (Player) and th
 
 ---
 ## 👥 Author
-- **Nguyen Kieu Phong** - 
+- **Nguyen Kieu Phong** 
 ---
 🚀 INSTALLATION & RUN GUIDE
-In order to run this program on your own in an IDE you need  
+- **In order to run this program on your own in an IDE you'll need a C++ compiler supporting at least the C++11 standard (GCC/MinGW, MSVC)**
+- **
 ## ✨ KEY FEATURES
 
 ### 1. Smooth Graphical User Interface (GUI)
