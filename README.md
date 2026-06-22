@@ -11,6 +11,12 @@
 - **In order to run this program from an IDE on Windows OS you'll need a C++ compiler supporting at least the C++11 standard (GCC/MinGW, MSVC)**
 - Assuming that you use g++ to compile .cpp file , then you need to go into the folder where you save the main.cpp file and use command:  g++ main.cpp graphics.cpp algorithm.cpp resource.o -o XO_AI.exe -Iinclude -Llib -lraylib -lopengl32 -lgdi32 -lwinmm -mwindows 
 - **There will be a XO_AI.exe file in the folder after compilation. Continue to command : XO_AI in Command Prompt or ./XO_AI if you use VsCode. The game console will appear**
+
+
+If you just want to play the game immediately without installing any compiler:
+1. Go to the [Releases](đường_link_release_của_mày) section on the right.
+2. Download the `CaroAI_v1.0.zip` file.
+3. Extract the ZIP file and double-click `CaroAI.exe` to play!
 ---
 ## ✨ KEY FEATURES
 
