@@ -1,7 +1,0 @@
-Turn: 1
-Human Move: (6,10) 
- AI Move: (0,1) 
- AI Score: 0 
- States Evaluated: 224 
- Response Time: 1.02 ms
-
