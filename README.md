@@ -63,7 +63,6 @@ Based on the development environment setup, the internal workspace architecture 
 │   └── raylib.h
 ├── lib/
 │   └── libraylib.a
-├── ai_log.txt
 ├── algorithm.cpp
 ├── graphics.cpp
 ├── icon.ico
