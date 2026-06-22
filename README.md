@@ -1,15 +1,17 @@
 # 🎮 CARO GAME 
 ---
-🔎 Overview
-A simple 15x15 Caro game (Gomoku variant) played between a Human (Player) and the Computer (AI). The system integrates an intuitive graphical user interface (GUI) alongside highly configurable adversarial search algorithms. The objective of the game is to form an unbroken chain of 5 moves (vertically, horizontally, diagonally) and the first player to do that wins the game. 
+##🔎 Overview
+A simple 15x15 C++ Caro game (Gomoku variant) played between a Human (Player) and the Computer (AI). The system integrates an intuitive graphical user interface (GUI) alongside highly configurable adversarial search algorithms. The objective of the game is to form an unbroken chain of 5 moves (vertically, horizontally, diagonally) and the first player to do that wins the game. 
 
 ---
 ## 👥 Author
 - **Nguyen Kieu Phong** 
 ---
 🚀 INSTALLATION & RUN GUIDE
-- **In order to run this program on your own in an IDE you'll need a C++ compiler supporting at least the C++11 standard (GCC/MinGW, MSVC)**
-- **
+- **In order to run this program from an IDE on Windows OS you'll need a C++ compiler supporting at least the C++11 standard (GCC/MinGW, MSVC)**
+- **Assuming that you use g++ to compile .cpp file , then you need to go into the folder where you save the main.cpp file and use command:  
+  g++ main.cpp graphics.cpp algorithm.cpp resource.o -o XO_AI.exe -Iinclude -Llib -lraylib -lopengl32 -lgdi32 -lwinmm -mwindows **
+-** There will be a XO_AI.exe file in the folder after compilation. Continue to command : XO_AI in Command Prompt or ./XO_AI if u use VsCode. The game console will appear**
 ## ✨ KEY FEATURES
 
 ### 1. Smooth Graphical User Interface (GUI)
