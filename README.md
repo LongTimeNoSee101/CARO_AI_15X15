@@ -18,7 +18,7 @@ A simple 15x15 C++ Caro game (Gomoku variant) played between a Human (Player) an
 - Built on top of the lightweight **Raylib** library (C++), ensuring a responsive 60 FPS experience.
 - Visual move highlighting (Red border for Player X, Blue border for AI O) to track the latest moves easily.
 - Translucent status overlay upon game completion (`VICTORY!`, `GAME OVER`, `DRAW GAME`).
-
+  
 ### 2. Live Algorithm Setup Popup
 Allows players to dynamically tweak and configure the AI's "brain" mid-game via an interactive setup overlay:
 - **Algorithm Selection:** Toggle seamlessly between pure **Minimax** and optimized **Alpha-Beta Pruning**.
