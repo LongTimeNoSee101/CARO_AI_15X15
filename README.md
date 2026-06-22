@@ -1,16 +1,14 @@
 # 🎮 CARO GAME 
 ---
 🔎 Overview
----
-A simple 15x15 Caro game (Gomoku variant) played between a Human (Player) and the Computer (AI). The system integrates an intuitive graphical user interface (GUI) alongside highly configurable adversarial search algorithms.
+A simple 15x15 Caro game (Gomoku variant) played between a Human (Player) and the Computer (AI). The system integrates an intuitive graphical user interface (GUI) alongside highly configurable adversarial search algorithms. The objective of the game is to form an unbroken chain of 5 moves (vertically, horizontally, diagonally) and the first player to do that wins the game. 
 
 ---
-
-## 👥 Au
-- **J** - Student ID: `2021XXXX` - *(Role: AI Algorithms & Heuristic Evaluation Function)*
-
+## 👥 Author
+- **Nguyen Kieu Phong** - 
 ---
-
+🚀 INSTALLATION & RUN GUIDE
+In order to run this program on your own in an IDE you need  
 ## ✨ KEY FEATURES
 
 ### 1. Smooth Graphical User Interface (GUI)
